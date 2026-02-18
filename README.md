@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Yasmeen Nisar 👋
 
-<!--
-**aidevyasmin/aidevyasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend Developer and an AI enthusiast with a strong interest in building practical and user-friendly web applications. I enjoy building real-world projects using JavaScript and Python.
 
-Here are some ideas to get you started:
+Currently, I am improving my skills in Web Development and Artificial Intelligence through practical projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+
+- Smart Expense Tracker – A JavaScript-based application to manage daily expenses.
+- AI Portfolio Website – A personal portfolio project built using HTML.
+- SkillBridge Internship Projects – Practical development tasks and learning experience.
+
+## 🛠 Skills
+
+- HTML  
+- CSS  
+- JavaScript  
+- Python  
+- Git & GitHub  
+
+## 📍 Location
+Lahore, Pakistan  
+
+## 📫 Contact Me
+📧 Email: ynisar514@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/yasmeen-nisar-043a493a3
+
