@@ -30,5 +30,6 @@ Lahore, Pakistan
 Live Website: https://glowvera-premium-organic-skincare.vercel.app  
 Tech Stack: Next.js, TypeScript, Tailwind CSS
 SKILLBRIDGE internship projet
-https://skillbridge-internship-for-student-three.vercel.app
+https://skillbridge-internship-for-student-three.    
+AI for lawyers
 https://lexis-assistant.vercel.app
